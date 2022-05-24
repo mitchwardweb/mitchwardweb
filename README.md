@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mitchwardweb
+- 👀 I’m interested in food, being active and the outdoors!
+- 🌱 I’m currently learning to become a full stack developer focussed on javascript
